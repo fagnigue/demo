@@ -1,8 +1,9 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Samedi" },
+    { "id": 2, "title": "Mardi" },
+    { "id": 3, "title": "Lundi" },
+    { "id": 4, "title": "Dimanche"}
   ],
   "comments": [
     { "id": 1, "body": "hey la ça passe", "postId": 1 },
